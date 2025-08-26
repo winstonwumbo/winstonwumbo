@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<h1 align="center">Hello There — (ง •̀_•́)ง</h1>
+<h3 align="center">I'm Winston, a graduate student in Cybersecurity Analytics at Penn State UP!</h3>
 <!--
 **winstonwumbo/winstonwumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
