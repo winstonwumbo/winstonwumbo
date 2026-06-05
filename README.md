@@ -1,5 +1,5 @@
-<h1 align="center">Hello there — (ง •̀_•́)ง</h1>
-<h3 align="center">I'm Winston, a graduate student in Cybersecurity Analytics at Penn State UP! I like putting things together and taking things apart.</h3>
+<h2 align="center">Hello there — (ง •̀_•́)ง</h2>
+<p align="center">My name is Winston! I'm an incoming Site Reliability Engineer at IBM and ongoing contributor to <a href="https://github.com/haxtheweb">HAXTheWeb</a>. I like putting things together and taking things apart.</p>
 <br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
